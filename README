@@ -1,0 +1,16 @@
+#####################################################################
+### Lehmer's Factor Stencils
+### August 2021
+### by Katherine E. Stange (http://math.katestange.net)
+### I release this code into the public domain.
+### Although I don't mind attribution. 
+### Related YouTube video and project:  
+###          https://www.youtube.com/watch?v=QzohwKT6TNA
+#####################################################################
+
+
+Running the file stencil-lehmer-final.py will create a large number of SVG files each of which is suitable for use with a paper cutter machine.
+
+The SVG files are included in github for ease of use, but if you wish to modify, you can work from stencil-lehmer-final.py.
+
+View the YouTube video for background:  https://www.youtube.com/watch?v=QzohwKT6TNA
